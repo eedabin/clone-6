@@ -1,0 +1,18 @@
+
+.icon-raw {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    color: var(--brown);
+}
+
+.icon-raw__icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.icon-raw__icon i {
+    margin-bottom: 13px;
+}

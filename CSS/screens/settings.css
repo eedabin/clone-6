@@ -1,0 +1,20 @@
+.settings__setting {
+    padding: 20px 0;
+    border-bottom: var(--main-border);
+    border: none;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    color: var(--font);
+}
+
+.settings__setting i {
+    margin-right: 20px;
+    font-size: 22px;
+}
+.settings-list {
+    border-bottom: var(--main-border);
+}
+
